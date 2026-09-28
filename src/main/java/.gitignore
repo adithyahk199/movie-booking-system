@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Database configuration
+dbconfig.properties
